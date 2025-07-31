@@ -36,3 +36,17 @@ CSS framework [Taiwindcss](https://vercel.com/)
 
 ### Block quote
 > Hello word
+
+### Table 
+|id | name | Age |
+|---|------|-----|
+|01 | Visa | 100 |
+
+### corde
+```python
+array=[1,2,3,4,5]
+for i in range(array)
+    print(array-i-1)
+```
+### Html
+<h1>heading</h1>
