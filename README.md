@@ -7,3 +7,7 @@
 '`npm install`
 `pip install`
 `Ayyyy fucku tam ort torn rehh`
+### Todo  list 
+- [ ] homepage
+- [ ] about page
+- [x] sevice page
