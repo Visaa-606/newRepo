@@ -27,3 +27,12 @@ CSS framework [Taiwindcss](https://vercel.com/)
 1. one
 2. two
 3. there
+### text style
+** Bbold text**
+
+*hello world *
+
+~~delete text~~
+
+### Block quote
+> Hello word
